@@ -1,6 +1,6 @@
 .banner {
   height:600px;
-  background-image: url("/images/background.png");
+  background-image: url('/landing/images/background.png');
   background-size: cover;
   background-position: center;
   color: white;
